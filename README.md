@@ -33,4 +33,4 @@ Nativefier alapú asztali kliens a KRÉTA e-napló rendszerhez.
 - Futtasd a programot
 - Válaszd ki az iskoládat
 - Írd be a belépési adataidat
-- Használd a Krétát, pont mint a böngésződben
+- Használd a Krétát; pont, mint a böngésződben
