@@ -18,8 +18,9 @@ Nativefier alapú asztali kliens a KRÉTA e-napló rendszerhez.
     ```bash
     cd KRETADesktop
     ```
-    - Buildelj
+    - Buildeld ki
     ```bash
     make
     ```
   - Letöltheted GitHub releaseként
+    - Menj el a [GitHub releasek szekciójába](https://github.com/piciakk/KRETADesktop/releases/latest)
