@@ -3,7 +3,13 @@ Nativefier alapú asztali kliens a KRÉTA e-napló rendszerhez.
 
 ## Használati útmutató:
 - Töltsd le a futtatható fájlt
+  - Letöltheted GitHub releaseként
+    - Menj el a [GitHub releasek szekciójába](https://github.com/piciakk/KRETADesktop/releases/latest)
+    - Keresd ki a számodra megfelelő platformot
+    - Töltsd le a zip fájlt
+    - Csomagold ki
   - Kibuildelheted magadnak
+    - Nyiss meg egy parancssort 
     - Klónozd le ezt a repo-t
     ```bash
     git clone https://github.com/piciakk/KRETADesktop
@@ -22,5 +28,9 @@ Nativefier alapú asztali kliens a KRÉTA e-napló rendszerhez.
     ```bash
     make
     ```
-  - Letöltheted GitHub releaseként
-    - Menj el a [GitHub releasek szekciójába](https://github.com/piciakk/KRETADesktop/releases/latest)
+    - Keresd meg a platformodnak megfelelő mappát
+- Lépj a letöltött/kibuildelt mappába
+- Futtasd a programot
+- Válaszd ki az iskoládat
+- Írd be a belépési adataidat
+- Használd a Krétát, pont mint a böngésződben
